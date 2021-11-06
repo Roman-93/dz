@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+.block {
+  margin: 10px;
+  border: 5px solid rgb(226, 224, 224);
+  border-style: inset;
+  width: 350px;
+position: relative;
+}
+
+.block__one {
+
+
+}
+.block__one img {
+  position: relative;
+  left: 50px;
+}
