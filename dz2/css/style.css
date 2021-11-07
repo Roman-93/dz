@@ -16,7 +16,57 @@ position: relative;
 
 
 }
+
 .block__one img {
   position: relative;
   left: 50px;
+}
+
+h1 {
+  font-size: 22px;
+  font-style: italic;
+  text-align: right;
+}
+
+p {
+  text-align: right;
+  font-size: 14px;
+}
+
+span  {
+  text-decoration: line-through;
+}
+
+.block__two img {
+  position: relative;
+  left: 70px;
+}
+
+h3 {
+font-family:Georgia, 'Times New Roman', Times, serif;
+letter-spacing: 3px;
+text-align: center;
+}
+
+.block__two p {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 15px;
+}
+
+ .author {
+  text-align: right;
+  font-style: italic;
+}
+
+.block__three img {
+  width: 250px;
+}
+.block__three p {
+  text-align: left;
+  line-height: 25px;
+  font-size: 18px;
+}
+h2 {
+
 }
