@@ -120,3 +120,55 @@
     border-color: green ;
     color: green;
   }
+
+
+  table {
+    margin: 50px;
+    border: 1px solid gray;
+    width: 60%;
+    border-collapse: collapse;
+  }
+
+  td {
+    border: 1px solid gray;
+    width: 250px;
+    height: 30px;
+    text-align: center;
+  }
+  th {
+    border: 1px solid gray
+  }
+
+
+   .flex3 {
+    display: flex;
+    justify-content: space-between;
+  }
+
+   .flex2 {
+    display: flex;
+    justify-content: space-around;
+  }
+
+   .flex {
+    display: flex;
+    justify-content: center;
+  }
+
+  span {
+    width: 120px;
+    height: 30px;
+    border: 1px dashed green;
+  }
+
+ .block21 span, .block23  span {
+    background-color: gray;
+  }
+
+  .block22  span {
+    background-color: black;
+  }
+
+  .block20 span, .block24  span {
+    background-color: yellow;
+  }
